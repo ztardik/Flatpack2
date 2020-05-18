@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "barcode")(type "KiCad")(uri "/home/zoltan/Work/elec/Eltek/Flatpack")(options "")(descr ""))
+)
