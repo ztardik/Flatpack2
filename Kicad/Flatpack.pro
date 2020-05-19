@@ -1,4 +1,4 @@
-update=Mon 18 May 2020 12:20:13 +06
+update=Tue 19 May 2020 14:07:24 +06
 version=1
 last_client=kicad
 [general]
@@ -18,6 +18,8 @@ version=1
 version=1
 [PcbFrame]
 version=1
+[sheetnames]
+1=475773c2-37c6-4132-bc23-4ce0158eeddc:
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -52,6 +54,8 @@ Track_ends_too_close=error
 Parallel_tracks_too_close=error
 Tracks_crossing=error
 Track_too_close_to_board_edge=error
+Via_too_close_to_board_edge=error
+Pad_too_close_to_board_edge=error
 Pads_too_close=error
 Pad_too_close_to_copper_item=error
 Copper_areas_intersect=error
@@ -139,7 +143,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
@@ -318,5 +322,3 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[sheetnames]
-1=475773c2-37c6-4132-bc23-4ce0158eeddc:
